@@ -18,12 +18,7 @@ Have a good day and keep smiling.
 
 Hi! I’m Rishabh Gaur. I just started my career at ThoughtWorks as a Data Scientist Intern. I love to learn new technologies and to keep my gadgets up to dated.
 
-<<<<<<< HEAD
-
 -----------------------------------
-=======
-------------------------------------
->>>>>>> Rishabh - Just edited the storied.txt
 
 Neeraj Chhimwal was here.
 
