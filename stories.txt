@@ -8,12 +8,22 @@ Hi,
 My name is Aman Tiwari
 My hobbies are reading, travelling and adventure sports
 
+
 ------------------
+I am Astha Agarwal
+
+
+
+
+------------------------------------
 Hello Everyone,
 My name is Priyanshi.
 Have a good day and keep smiling.
 ---------------------------
 
+
+
+------------------------------------
 
 
 Hi! I’m Rishabh Gaur. I just started my career at ThoughtWorks as a Data Scientist Intern. I love to learn new technologies and to keep my gadgets up to dated.
@@ -27,9 +37,26 @@ Neeraj Chhimwal was here.
 ------------------------------------
 ------------------------------------
 
+
 Hello this is Manish. 
 
 -------------------------------------
+
+
+
+
+Hello this is Manish. 
+
+
+------------------------------------
+
+ 
+
+-----------------------------------
+
+I am Astha
+
+-----------------------------------
 I am Ankur. I was born and brought up in Mahoba and now live in Gurugram.
 
 -----------------------------------
