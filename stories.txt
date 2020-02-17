@@ -3,6 +3,7 @@ opI am Abhinav. I was born and brought up in Kanpur and now live in Pune.
 
 -----------------------------------
 
+
 Hi, 
 My name is Aman Tiwari
 My hobbies are reading, travelling and adventure sports
@@ -10,3 +11,8 @@ My hobbies are reading, travelling and adventure sports
 ------------------------------------
 
 Hi! I’m Rishabh Gaur. I just started my career at ThoughtWorks as a Data Scientist Intern. I love to learn new technologies and to keep my gadgets up to dated.
+
+------------------------------------
+
+I am Ankur. I was born and brought up in Mahoba and now live in Gurugram.
+
